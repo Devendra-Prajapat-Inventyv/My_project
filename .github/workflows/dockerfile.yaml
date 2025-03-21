@@ -23,7 +23,7 @@ jobs:
           docker push devendra110203/myapp:latest
 
       - name: Authentication to google cloud
-        uses: google-github-actions/auth@v0
+        uses: google-github-actions/auth@v0.4.0
         with:
            credentials_json: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
       - name: Publish Messge 
