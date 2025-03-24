@@ -32,4 +32,4 @@ jobs:
         with:
           project_id: ${{ secrets.PROJECT_ID }}
           topic_name: ${{ secrets.TOPIC_NAME }}
-          message: '{"name:"devendra"}'
+          message: '{"name":"devendra"}'
