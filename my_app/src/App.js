@@ -6,7 +6,9 @@ function App() {
     
     
         <a>
-          <h1>Hello Devendra</h1>
+          <h1>Hello Devendra </h1>
+          <h2>Good Morning </h2>
+          <h2>Have a great day </h2>
         </a>
     </div>
   );
