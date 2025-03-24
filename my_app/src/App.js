@@ -5,8 +5,8 @@ function App() {
     <div className="App">
     
     
-      <h1>Hello</h1>
-      <h1>Yagnesh</h1>
+      <h1>Hello Devendra</h1>
+      
     </div>
   );
 }
